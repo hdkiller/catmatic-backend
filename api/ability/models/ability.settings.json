@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "abilities",
+  "info": {
+    "name": "Ability"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "excerp": {
+      "type": "richtext"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}

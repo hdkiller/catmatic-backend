@@ -1,0 +1,12 @@
+{
+  "kind": "collectionType",
+  "collectionName": "menuitems",
+  "info": {
+    "name": "Menuitem"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {}
+}

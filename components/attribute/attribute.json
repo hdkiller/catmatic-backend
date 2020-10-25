@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_attribute_attributes",
+  "info": {
+    "name": "attribute",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
